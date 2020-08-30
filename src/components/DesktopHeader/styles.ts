@@ -1,6 +1,11 @@
 import styled, { css } from 'styled-components';
 import { GrLinkedin } from 'react-icons/gr';
-import { AiFillHome, AiOutlineBell, AiFillCaretDown, AiOutlineTeam } from 'react-icons/ai';
+import {
+  AiFillHome,
+  AiOutlineBell,
+  AiFillCaretDown,
+  AiOutlineTeam
+} from 'react-icons/ai';
 
 export const Container = styled.header`
   background: var(--color-header);
