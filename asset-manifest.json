@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-linkedin-clone/static/js/main.b62624ea.chunk.js",
+    "main.js.map": "/react-linkedin-clone/static/js/main.b62624ea.chunk.js.map",
+    "runtime-main.js": "/react-linkedin-clone/static/js/runtime-main.fdbceb90.js",
+    "runtime-main.js.map": "/react-linkedin-clone/static/js/runtime-main.fdbceb90.js.map",
+    "static/js/2.3035b28c.chunk.js": "/react-linkedin-clone/static/js/2.3035b28c.chunk.js",
+    "static/js/2.3035b28c.chunk.js.map": "/react-linkedin-clone/static/js/2.3035b28c.chunk.js.map",
+    "index.html": "/react-linkedin-clone/index.html",
+    "precache-manifest.f0e420bdd70c6db39d1cd5fbd0c2337b.js": "/react-linkedin-clone/precache-manifest.f0e420bdd70c6db39d1cd5fbd0c2337b.js",
+    "service-worker.js": "/react-linkedin-clone/service-worker.js",
+    "static/js/2.3035b28c.chunk.js.LICENSE.txt": "/react-linkedin-clone/static/js/2.3035b28c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdbceb90.js",
+    "static/js/2.3035b28c.chunk.js",
+    "static/js/main.b62624ea.chunk.js"
+  ]
+}
